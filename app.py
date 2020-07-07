@@ -13,7 +13,8 @@ st.write("Vignan institute of information technology (06/2018 – 04/2022)")
 st.markdown("###### 8.1 SGPA")
 
 st.header(":sunrise_over_mountains: EXPERIENCE")
-st.markdown("+ _ AI Hackathon 2019 (08/2019 – 09/2019) _ ")
+st.markdown("+ _ AI Hackathon 2019 (08/2019 – 09/2019) _ ")
+
 st.write(">Selected in one of the top 25 teams, out of 350+ teams nationwide for the second stage of the NVIDIA's AI Hackathon 2019.")
 st.write(">Served as team leader for our team.")
 st.markdown("+ _ On the plague trail: HackerEarth Machine Learning challenge (06/2019 – 06/2019) _")
