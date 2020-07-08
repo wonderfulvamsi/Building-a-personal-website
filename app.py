@@ -44,4 +44,4 @@ st.markdown("+ Python programming\n\n + Automation\n\n+ SQL \n\n + Machine learn
 st.header(":sparkling_heart: INTERESTS")
 st.markdown("+ STEM\n\n + Artificial intelligence\n\n+ Quantum computing \n\n + Deep reinforcemet learning\n\n + AGI\n\n + Robotics \n\n + Research")
 
-
+st.markdown(" --- ")
